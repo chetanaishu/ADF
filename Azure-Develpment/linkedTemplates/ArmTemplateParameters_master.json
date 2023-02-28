@@ -5,6 +5,15 @@
 		"factoryName": {
 			"value": "Azure-Develpment"
 		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDB_CHETAN_connectionString": {
+			"value": ""
+		},
+		"SQL_OnPrem_TECHBRO_DB_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
