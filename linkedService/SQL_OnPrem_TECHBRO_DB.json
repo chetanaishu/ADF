@@ -1,0 +1,16 @@
+{
+	"name": "SQL_OnPrem_TECHBRO_DB",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=LAP-CHETAN-VONI;initial catalog=TECHBRO_SSIS;user id=sa",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIwYzUzYmVhYS1jODhkLTRiNDktOWY3MS1kZTBmOTk1MDQ2YjYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
