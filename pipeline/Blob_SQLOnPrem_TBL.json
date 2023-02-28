@@ -49,7 +49,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "SqlServerTable1",
+						"referenceName": "TECHBroDb_TEST",
 						"type": "DatasetReference"
 					}
 				]
